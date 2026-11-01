@@ -1,0 +1,3 @@
+# Zależności projektu Movie whisperer.
+# Lista zostanie uzupełniona po wyborze technologii.
+# Instalacja: pip install -r requirements.txt
